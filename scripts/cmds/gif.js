@@ -23,7 +23,7 @@ module.exports = {
 `╭─❍
 │ Example:
 │ gif kiss
-│ gif hug
+│ gif list
 ╰───────────⟡`,
         threadID,
         messageID
