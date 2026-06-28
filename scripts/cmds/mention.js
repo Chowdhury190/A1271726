@@ -16,7 +16,7 @@ module.exports = {
   onStart: async function () { },
 
   onChat: async function ({ api, event }) {
-    const bossUID = "61583129938292"; 
+    const bossUID = "61589020949344"; 
 
     if (!event.mentions) return;
 
